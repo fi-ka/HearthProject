@@ -1,0 +1,17 @@
+Arcane Missiles 		,2
+Arcane Intellect 		,1
+Fireball 				,2
+Polymorph 				,2
+Acidic Swamp Ooze 		,2
+Novice Engineer 		,2
+Raid Leader 			,1
+Shattered Sun Cleric 	,2
+Chillwind Yeti 			,2
+Sen'jin Shieldmasta 	 ,2
+Stormwind Knight 		,2
+Frostwolf Warlord 		,2
+Gurubashi Berserker 	,2
+Stormpike Commando 		,1
+Archmage 				,1
+Boulderfist Ogre 		,2
+Stormwind Champion 		,2
